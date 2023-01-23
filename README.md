@@ -1,2 +1,2 @@
-# Django_College123
-Django_college_project
+# Stjoseph
+ Stjoseph_fullstack
